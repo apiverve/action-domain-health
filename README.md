@@ -4,7 +4,7 @@
 
 > **Beta Release** - This action is in beta. We'd love your feedback! [Open an issue](https://github.com/apiverve/action-domain-health/issues) if you encounter any problems.
 
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Domain Health-blue?logo=github)](https://github.com/marketplace/actions/apiverve-domain-health)
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Domain_Health-blue?logo=github)](https://github.com/apiverve/action-domain-health)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **[Browse All APIs](https://apiverve.com/marketplace?utm_source=github&utm_medium=action&utm_campaign=domain-health)** | **[Get Free API Key](https://dashboard.apiverve.com/signup?utm_source=github&utm_medium=action&utm_campaign=domain-health)** | **[Documentation](https://docs.apiverve.com?utm_source=github&utm_medium=action&utm_campaign=domain-health)**
